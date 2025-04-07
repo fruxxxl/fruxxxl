@@ -21,6 +21,7 @@
 
 *   Diving deeper into [e.g., NestJS / Microservices Architecture]
 *   Exploring [OpenAI/LLM/RAG Agents]
+*   Vibe Coding ✨ (And you too, don't lie 🤫)
 
 ## 🛠️ My Tech Stack:
 
