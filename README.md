@@ -27,6 +27,7 @@
 *   **Backend:** Node.js, TypeScript, NestJS, Express, PostgreSQL, MongoDB, Redis, Docker
 *   **Frontend:** React, Vue.js, and billions of other libraries for js/ts/tsx/jsx/css/html/etc
 
+
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
@@ -40,15 +41,17 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 </p>
 
-## 📊 My GitHub Stats:
+<!-- Start Generation Here -->
+<hr style="border: 1px solid #ccc; margin: 20px 0;" />
+<!-- End Generation Here -->
 
-<p align="center">
+<p align="">
   <a href="https://github.com/fruxxxl">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=fruxxxl&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true" alt="fruxxxl's GitHub Stats" />
+    <img align="" src="https://github-readme-stats.vercel.app/api?username=fruxxxl&show_icons=true&locale=en&theme=graywhite&hide_border=true&count_private=true" alt="fruxxxl's GitHub Stats" />
   </a>
   <br/><br/>
   <a href="https://github.com/fruxxxl">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fruxxxl&layout=compact&locale=en&theme=tokyonight&hide_border=true&langs_count=8" alt="fruxxxl's Top Languages"/>
+    <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fruxxxl&layout=compact&locale=en&theme=graywhite&hide_border=true&langs_count=8" alt="fruxxxl's Top Languages"/>
   </a>
 </p>
 
