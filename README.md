@@ -1,5 +1,5 @@
 <h1>
-  And bum! This is my GitHub profile
+  And boom! This is my GitHub profile
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
