@@ -75,9 +75,9 @@ My main area is TypeScript backend development with NestJS, MongoDB, Redis, Dock
   </tr>
   <tr>
     <td width="32%">
-      <h3><a href="https://github.com/fruxxxl/deadlinesheet">DeadlineSheet</a></h3>
+      <h3><a href="https://github.com/fruxxxl/deadlinesheet">Deadliner</a></h3>
       <p>
-        <code>private</code> · <code>Swift</code> · <code>iOS</code>
+        <code>private</code> · <code>Swift</code> · <code>iOS</code> <a target="_blank" href="https://apps.apple.com/us/app/дедлайнер/id6760419265#information">AppStore</a> 
       </p>
     </td>
     <td>
@@ -266,9 +266,9 @@ Blockchain:    TON · Storm Trade SDK
   </tr>
   <tr>
     <td width="32%">
-      <h3><a href="https://github.com/fruxxxl/deadlinesheet">DeadlineSheet</a></h3>
+      <h3><a href="https://github.com/fruxxxl/deadlinesheet">Дедлайнер</a></h3>
       <p>
-        <code>private</code> · <code>Swift</code> · <code>iOS</code>
+        <code>private</code> · <code>Swift</code> · <code>iOS</code> <a target="_blank" href="https://apps.apple.com/us/app/дедлайнер/id6760419265#information">AppStore</a> 
       </p>
     </td>
     <td>
