@@ -29,6 +29,12 @@
 
 ---
 
+### Business tools and automation
+
+I'm Alexander Shulgin, the developer behind [PROCESA](https://procesa.ru/). I build internal tools and integrations for business workflows, including document processing and browser automation.
+
+[About me and my work](https://procesa.ru/about/) · [Try examples](https://procesa.ru/cases/) · [Discuss a task](https://procesa.ru/contacts/)
+
 ### What I Do
 
 I work best in systems where engineering is not limited to shipping isolated features: diagnosing instability, improving observability, simplifying team workflows, and automating repeated operational work.
@@ -41,6 +47,26 @@ My main area is TypeScript backend development with NestJS, MongoDB, Redis, Dock
 
 <table>
   <tr>
+    <td width="32%"><h3><a href="https://github.com/fruxxxl/document-to-form">Document to Form</a></h3><p><code>TypeScript</code> · <code>Browser OCR</code></p></td>
+    <td>Reads three company fields from an image locally in the browser. Review the source, confirm values, and fill a demo form. <a href="https://fruxxxl.github.io/document-to-form/">Try it</a>.</td>
+  </tr>
+
+  <tr>
+    <td width="32%">
+      <h3><a href="https://github.com/fruxxxl/hermes-max-plugin">Hermes MAX Plugin</a></h3>
+      <p><code>Python</code> · <code>MAX Bot API</code> · <code>AI agent</code></p>
+    </td>
+    <td>Connects a Hermes Agent deployment to MAX messenger. Handles long polling, text replies, photo uploads, and command menus. Includes offline adapter tests.</td>
+  </tr>
+  <tr>
+    <td width="32%">
+      <h3><a href="https://github.com/fruxxxl/copy-link-enjoyer">Copy Link Enjoyer</a></h3>
+      <p><code>JavaScript</code> · <code>Browser extension</code></p>
+    </td>
+    <td>Copies selected text as a Markdown link to the current webpage. Includes an on/off switch and a list of copied links.</td>
+  </tr>
+
+  <tr>
     <td width="32%">
       <h3><a href="https://github.com/fruxxxl/mongo-collection-cherry-picker">Mongo Collection Cherry Picker</a></h3>
       <p>
@@ -48,7 +74,7 @@ My main area is TypeScript backend development with NestJS, MongoDB, Redis, Dock
       </p>
     </td>
     <td>
-      CLI and interactive tool for selective MongoDB backup and restore through SSH tunnels. Built for practical environment-to-environment data transfer: collection selection, presets, export strategies, and E2E tests with testcontainers.
+      CLI and interactive tool for selective MongoDB backup, with direct and SSH backup modes. Restore uses a direct MongoDB connection. Built for practical environment-to-environment data transfer: collection selection, presets, export strategies, and E2E tests with testcontainers.
     </td>
   </tr>
   <tr>
@@ -220,6 +246,12 @@ Blockchain:    TON · Storm Trade SDK
 
 ---
 
+### Инструменты для бизнеса и автоматизация
+
+Я Александр Шульгин, разработчик и основатель [PROCESA](https://procesa.ru/). Помогаю упростить работу с документами и сервисами: разрабатываю внутренние инструменты, интеграции и расширения для браузера.
+
+[Обо мне и моей работе](https://procesa.ru/about/) · [Попробовать примеры](https://procesa.ru/cases/) · [Обсудить задачу](https://procesa.ru/contacts/)
+
 ### Что я делаю
 
 Больше всего полезен в системах, где работа не ограничивается отдельными фичами: найти источник нестабильности, добавить наблюдаемость, упростить рабочий процесс команды или автоматизировать повторяющуюся операционную боль.
@@ -232,6 +264,26 @@ Blockchain:    TON · Storm Trade SDK
 
 <table>
   <tr>
+    <td width="32%"><h3><a href="https://github.com/fruxxxl/document-to-form">Из документа в форму</a></h3><p><code>TypeScript</code> · <code>OCR в браузере</code></p></td>
+    <td>Распознаёт название организации, ИНН и КПП с изображения. Пользователь проверяет поля и переносит их в форму. Документы остаются в браузере. <a href="https://fruxxxl.github.io/document-to-form/">Попробовать</a>.</td>
+  </tr>
+
+  <tr>
+    <td width="32%">
+      <h3><a href="https://github.com/fruxxxl/hermes-max-plugin">Hermes MAX Plugin</a></h3>
+      <p><code>Python</code> · <code>MAX Bot API</code> · <code>ИИ-агент</code></p>
+    </td>
+    <td>Подключает Hermes Agent к мессенджеру MAX. Обрабатывает сообщения, отправляет текст и фото, показывает меню команд. В репозитории есть офлайн-тесты адаптера.</td>
+  </tr>
+  <tr>
+    <td width="32%">
+      <h3><a href="https://github.com/fruxxxl/copy-link-enjoyer">Copy Link Enjoyer</a></h3>
+      <p><code>JavaScript</code> · <code>Расширение браузера</code></p>
+    </td>
+    <td>Копирует выделенный текст как Markdown-ссылку на текущую страницу. В настройках можно отключить функцию и просмотреть скопированные ссылки.</td>
+  </tr>
+
+  <tr>
     <td width="32%">
       <h3><a href="https://github.com/fruxxxl/mongo-collection-cherry-picker">Mongo Collection Cherry Picker</a></h3>
       <p>
@@ -239,7 +291,7 @@ Blockchain:    TON · Storm Trade SDK
       </p>
     </td>
     <td>
-      CLI и интерактивный инструмент для выборочного backup / restore MongoDB-коллекций через SSH-туннели. Сделан для практичных сценариев переноса данных между окружениями: выбор коллекций, пресеты, стратегии экспорта и E2E-тесты на testcontainers.
+      CLI и интерактивный инструмент для выборочного backup MongoDB-коллекций напрямую или через SSH. Восстановление работает через прямое подключение к MongoDB. Сделан для практичных сценариев переноса данных между окружениями: выбор коллекций, пресеты, стратегии экспорта и E2E-тесты на testcontainers.
     </td>
   </tr>
   <tr>
