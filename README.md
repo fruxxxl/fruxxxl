@@ -31,9 +31,7 @@
 
 ### Business tools and automation
 
-I'm Alexander Shulgin, the developer behind [PROCESA](https://procesa.ru/). I build internal tools and integrations for business workflows, including document processing and browser automation.
-
-[About me and my work](https://procesa.ru/about/) · [Try examples](https://procesa.ru/cases/) · [Discuss a task](https://procesa.ru/contacts/)
+I'm Alexander Shulgin. I build internal tools and integrations for business workflows, including document processing and browser automation.
 
 ### What I Do
 
@@ -248,9 +246,7 @@ Blockchain:    TON · Storm Trade SDK
 
 ### Инструменты для бизнеса и автоматизация
 
-Я Александр Шульгин, разработчик и основатель [PROCESA](https://procesa.ru/). Помогаю упростить работу с документами и сервисами: разрабатываю внутренние инструменты, интеграции и расширения для браузера.
-
-[Обо мне и моей работе](https://procesa.ru/about/) · [Попробовать примеры](https://procesa.ru/cases/) · [Обсудить задачу](https://procesa.ru/contacts/)
+Я Александр Шульгин. Помогаю упростить работу с документами и сервисами: разрабатываю внутренние инструменты, интеграции и расширения для браузера.
 
 ### Что я делаю
 
